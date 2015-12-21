@@ -6,7 +6,7 @@ var calendar = {
 	fadeInterval: 1000,
 	intervalId: null,
 	dataIntervalId: null,
-	maximumEntries: config.calendar.maximumEntries || 10
+	maximumEntries: config.calendar.maximumEntries || 8
 }
 
 calendar.updateData = function (callback) {
