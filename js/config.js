@@ -11,7 +11,7 @@ var config = {
             units: 'metric',
             // if you want a different lang for the weather that what is set above, change it here
             lang: 'nl',
-            APPID: 'YOUR_FREE_OPENWEATHER_API_KEY'
+            APPID: '672c517630d46e815db856524819daa5'
         }
     },
     compliments: {
@@ -35,7 +35,7 @@ var config = {
     },
     calendar: {
         maximumEntries: 10,
-        url: "https://p01-calendarws.icloud.com/ca/subscribe/1/n6x7Farxpt7m9S8bHg1TGArSj7J6kanm_2KEoJPL5YIAk3y70FpRo4GyWwO-6QfHSY5mXtHcRGVxYZUf7U3HPDOTG5x0qYnno1Zr_VuKH2M"
+        url: "https://sharing.calendar.live.com/calendar/private/83667c61-994c-4894-b58b-b2586180dd74/85b7b063-6cf9-436d-b223-84a49209af84/cid-3cbb9c66f381e218/calendar.ics"
     },
     news: {
         feed: 'http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml'
